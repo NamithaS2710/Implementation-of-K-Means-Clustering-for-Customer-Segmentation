@@ -65,24 +65,23 @@ plt.title("Customer Segments")
 plt.show()
 ```
 ## Output:
-1.data.head()
+1.data.head()                                                          
 ![image](https://github.com/NamithaS2710/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/133190822/df7b1b47-4f28-4727-ab26-51e527abe6e4)
 
-2.data.info()
+2.data.info()            
 ![image](https://github.com/NamithaS2710/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/133190822/eb3a1121-3058-40a4-811a-e14cf949ef4f)
 
-3.data.isnull().sum()
-
-4.Elbow method
+3.data.isnull().sum()                                                              
+4.Elbow method                                          
 ![image](https://github.com/NamithaS2710/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/133190822/26469f1f-07b0-49a5-9ba7-8b92d5cb64f3)
 
-5. KMeans clusters
+5. KMeans clusters                                                
 ![image](https://github.com/NamithaS2710/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/133190822/3cc98cc2-cb8a-40b6-b387-56973c2128bd)
 
-6. array
+6. array                                                                                                       
 ![image](https://github.com/NamithaS2710/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/133190822/e38cdde1-78be-476d-ab8b-b76fa3c23614)
 
-7. Customer Segment graph
+7. Customer Segment graph                                                   
 ![image](https://github.com/NamithaS2710/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/133190822/9a3ca546-6d0d-4628-ac33-16be7077bc01)
 
 
